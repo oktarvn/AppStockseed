@@ -1,0 +1,2 @@
+# AppStockseed
+Stockseed Terbaru
